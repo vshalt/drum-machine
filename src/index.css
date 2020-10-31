@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+#drum-machine {
+  width: 100vw;
+  min-height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer{
+  text-align: center;
+}
+footer a, footer i{
+  color: black;
+}
+footer a{
+  font-weight: 600;
+}
