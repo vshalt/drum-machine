@@ -1,7 +1,6 @@
 # Drum Machine
 
 ![Drum machine](./assets/demo.gif)
-
 > A beat board to find your musician side.
 
 ---
@@ -11,7 +10,6 @@
 - [Technologies](#technologies)
 - [How To Use](#how-to-use)
 - [Installation](#installation)
-- [References](#references)
 - [License](#license)
 
 ---
@@ -35,13 +33,13 @@
 ---
 
 ## How To Use
-You can view the hosted project [here](https://chocotacove.github.io/drum-machine) or https://chocotacove.github.io/drum-machine
+You can view the hosted project [here](https://vshalt.github.io/drum-machine) or https://vshalt.github.io/drum-machine
 
 ---
 
 ## Installation
 - You will need node to run the project locally.
-- Clone the repository to your local machine with `git clone https://github.com/chocotacove/drum-machine`.
+- Clone the repository to your local machine with `git clone https://github.com/vshalt/drum-machine`.
 - Change the current directory to the newly cloned repository.
 - Install all the required dependencies with `npm install`.
 - After the installations are done start the project locally on your machine with `npm start`.
